@@ -1,8 +1,7 @@
-jupyterlab==2.0.1
 imageio==2.8.0
+jupyterlab==3.1.7
 matplotlib==3.2.1
 numpy==1.18.2
 pandas==1.0.3
 scipy==1.4.1
 seaborn==0.10.0
-xlrd==1.2.0
